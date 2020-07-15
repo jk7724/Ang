@@ -1,0 +1,11 @@
+debug/addword.o
+debug/basewindow.o
+debug/main.o
+debug/mainwindow.o
+debug/repetwindow.o
+debug/wordbase.o
+debug/qrc_base.o
+debug/moc_addword.o
+debug/moc_basewindow.o
+debug/moc_mainwindow.o
+debug/moc_repetwindow.o

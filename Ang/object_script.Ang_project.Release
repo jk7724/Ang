@@ -1,0 +1,11 @@
+release/addword.o
+release/basewindow.o
+release/main.o
+release/mainwindow.o
+release/repetwindow.o
+release/wordbase.o
+release/qrc_base.o
+release/moc_addword.o
+release/moc_basewindow.o
+release/moc_mainwindow.o
+release/moc_repetwindow.o
